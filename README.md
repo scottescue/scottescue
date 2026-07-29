@@ -1,5 +1,3 @@
-# Scott Escue
-
 Senior Software Engineer building cloud-native applications, enterprise identity platforms, and developer tooling.
 
 My recent work spans Next.js, TypeScript, Java-based Keycloak extensions, AWS, Azure, Terraform, Kubernetes, and Go tooling. I tend to work on systems that are hard to change: authentication platforms, cloud migrations, legacy modernization, CI/CD, and developer productivity.
