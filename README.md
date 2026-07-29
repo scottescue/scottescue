@@ -2,8 +2,6 @@ Senior Software Engineer building cloud-native applications, enterprise identity
 
 My recent work spans Next.js, TypeScript, Java-based Keycloak extensions, AWS, Azure, Terraform, Kubernetes, and Go tooling. I tend to work on systems that are hard to change: authentication platforms, cloud migrations, legacy modernization, CI/CD, and developer productivity.
 
-Most of my recent production work is in private client repositories. Public projects here represent selected libraries, tools, experiments, and reference implementations I can share.
-
 ## Current focus
 
 - Enterprise identity: Keycloak, OAuth 2.0/OIDC, SAML, LTI 1.3
@@ -13,10 +11,12 @@ Most of my recent production work is in private client repositories. Public proj
 
 ## Featured public work
 
-- [Grizzle](https://github.com/sofired/grizzle) — Early-stage Go relational ORM and schema toolkit exploring type-aware schema definition, SQL query construction, migration workflows, and code generation.
-- [scottescue.com](https://github.com/scottescue/scottescue.github.io) — Personal site built with Astro and TypeScript, used as a public portfolio for projects, writing, and professional materials.
-- [Dropwizard EntityManager](https://github.com/scottescue/dropwizard-entitymanager) — Managed JPA EntityManager integration for Dropwizard applications using Hibernate.
-- [BackPorch ShedLock](https://github.com/scottescue/backporch-shedlock) — Java 6/7 backport of ShedLock for legacy applications that needed distributed locking without upgrading runtimes.
+My pinned repositories below are the public projects that best represent work I can share. Most recent client production work is private, so these projects are intentionally a mix of active experiments, maintained site work, and preserved reference implementations.
+
+- **Grizzle** — Current Go project exploring type-aware schema definition, SQL query construction, migrations, and code generation.
+- **scottescue.com** — Astro/TypeScript portfolio site tying together my resume, project notes, GitHub profile, and professional writing.
+- **Dropwizard EntityManager** — Unmaintained reference project showing how I adapted Dropwizard Hibernate lifecycle behavior for applications built around JPA EntityManager APIs.
+- **BackPorch ShedLock** — Unmaintained reference project showing pragmatic legacy support for distributed scheduled-task coordination on Java 6/7.
 
 ## Elsewhere
 
