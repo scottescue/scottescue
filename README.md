@@ -1,4 +1,4 @@
-Most of my recent production work is in private client repositories, so my public work is intentionally a mix of active experiments, site work, and preserved reference implementations.
+Most of my recent professional work is in private client repositories. My public GitHub focuses on open-source experiments, reference implementations, and engineering tooling that reflect the kinds of problems I work on: identity, developer workflows, cloud-native systems, and AI-assisted software delivery.
 
 ## Current focus
 
@@ -6,6 +6,7 @@ Most of my recent production work is in private client repositories, so my publi
 - Cloud and delivery: AWS, Azure, Kubernetes, Terraform, Argo CD, CI/CD
 - Application engineering: Next.js, React, TypeScript, Java, Node.js/Express
 - Developer tooling and security automation: Go, OpenSCAP/STIG, Docker
+- Currently exploring AI-assisted engineering workflows using git worktrees, specification-driven planning, issue decomposition, and model-assisted code review.
 
 ## Featured public work
 
